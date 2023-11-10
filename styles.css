@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    /* max-width: 600px; */
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.party-list,
+.party-form {
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #2e00d3;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: rgb(95, 172, 255);
+    font-size: 13px;
+}
